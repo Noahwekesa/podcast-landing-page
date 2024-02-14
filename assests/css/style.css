@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("../Montserrat_Alternates/MontserratAlternates-Medium.ttf");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("../Montserrat_Alternates/MontserratAlternates-Bold.ttf");
+}
+:root {
+  --primary: #cd4631;
+  --davys-grey: #4d4d4d;
+}
+body {
+  margin: 0;
+  font-family: "Montserrat";
+}
+
+.header {
+  background-color: #f7ede8;
+  padding: 1rem 8rem 2rem 8rem;
+}
